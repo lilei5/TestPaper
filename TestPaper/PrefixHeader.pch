@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  TestPaper
+//
+//  Created by lilei on 17/2/23.
+//  Copyright © 2017年 lilei. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define MAS_SHORTHAND_GLOBALS
+
+
+
+#import "Masonry.h"
+#import "Definition.h"
+#import "UIView+YYAdd.h"
+
+
+#endif /* PrefixHeader_pch */
